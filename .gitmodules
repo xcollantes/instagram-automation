@@ -1,0 +1,3 @@
+[submodule "secure-selenium"]
+	path = secure-selenium
+	url = https://github.com/xcollantes/secure-selenium
