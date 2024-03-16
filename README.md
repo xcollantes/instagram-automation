@@ -19,7 +19,7 @@ env/bin/pip install -r requirements.txt
 Run:
 
 ```bash
-env/bin/python3 webdriver.py \
+env/bin/python3 like_feed.py \
     --chromedriver chromedriver-linux64/chromedriver \
     --chrome_version 122.0.6261.111
 ```
